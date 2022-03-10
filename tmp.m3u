@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTS1" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/rts-1.jpg" group-title="Education",RTS1
+http://orionsvet.gcdn.co/mobileworld/rts1/video.m3u8?md5=NSX9Tg8aPJfpGDiYYWwE2g&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTS1Stream2" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/rts-1.jpg" group-title="Education",RTS1Stream2
+https://hls.ustream.to/RTS-1-serbija.m3u8?token=f9e-4fb-581-4c2-483-95f-199-94f-299-b5c-f27-722-32a-558-05a-51e-620-718-209-466-ed2-c
+#EXTINF:-1 tvg-id="xxx" tvg-name="PinkTV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/10/PINK.jpg" group-title="Education",PinkTV
+http://orionsvet.gcdn.co/mobileworld/pink2/video.m3u8?md5=UoTnE25GL4mGX_UonXRxqA&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTS2" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/RTS-2.jpg" group-title="Education",RTS2
+http://orionsvet.gcdn.co/mobileworld/rts2/video.m3u8?md5=YBphzO-DfihAKmCQ2drPZA&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTS2Alternativa" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/RTS-2.jpg" group-title="Education",RTS2Alternativa
+https://hls.ustreamix.com/RTS-2-serbija.m3u8?token=ffd-d58-3a3-2c8-533-288-c6b-58f-61c-fd3-1c2-6cc-782-a01-007-83d-dc6-fb6-0dd-f58-d1f-7
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTS3" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/RTS3.png" group-title="Education",RTS3
+http://mobilesvet.gcdn.co/rts3/video.m3u8?md5=o8Ykg_OJ4zItZ9WLxD4f9g&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="PRVATV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/prva.jpg" group-title="Education",PRVATV
+http://orionsvet.gcdn.co/mobileworld/prva/video.m3u8?md5=SFZbA39u5JZwxDCORHUUkQ&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="B92TV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/b92.png" group-title="Education",B92TV
+http://orionsvet.gcdn.co/mobileworld/b92/video.m3u8?md5=lBVfrG0q-KQ9WwSe-Zmy-w&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="HappyTV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/happy.png" group-title="Education",HappyTV
+http://orionsvet.gcdn.co/mobileworld/happy/video.m3u8?md5=8Rh0IkDWLinaJTypNwgPOQ&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="K1TV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/08/k1.png" group-title="Education",K1TV
+http://mobilesvet.gcdn.co/k1/video.m3u8?md5=5VR78jWhxtaRvZSZVHy0Tw&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTCG" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/rtv1.jpg" group-title="Education",RTCG
+http://mobilesvet.gcdn.co/rtv1/video.m3u8?md5=wHj3Ra57xpGNq4PdiKYOEg&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTV2" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/rtv1.jpg" group-title="Education",RTV2
+http://mobilesvet.gcdn.co/rtv2/video.m3u8?md5=0X9C0MQlHJ6X_3XmYUTsMw&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="KopernikusTV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/08/prva_world.png" group-title="Education",KopernikusTV
+http://mobilesvet.gcdn.co/b92info/video.m3u8?md5=-ZQzR7wYHvHkKl6FuKGn7Q&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="StudioB" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/Studio-B.jpg" group-title="Education",StudioB
+http://mobilesvet2.gcdn.co/studiob/video.m3u8?md5=OWrYc2ZvLy_XwND1Q48JKA&expires=1643598003&ak=865925
+#EXTINF:-1 tvg-id="xxx" tvg-name="KopernikusMusic" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/knc.jpg" group-title="Education",KopernikusMusic
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 tvg-id="xxx" tvg-name="BNMusic" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/BN-TV.png" group-title="Education",BNMusic
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="xxx" tvg-name="GrandTV" tvg-logo="http://radiobox.info/wp-content/uploads/2020/09/BN-TV.png" group-title="Education",GrandTV
+http://95.86.57.4:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="xxx" tvg-name="ArenaSport1" tvg-logo="http://radiobox.info/wp-content/uploads/2020/08/arena-sport-1.jpg" group-title="Education",ArenaSport1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="xxx" tvg-name="RTK-2" tvg-logo="http://radiobox.info/wp-content/uploads/2021/04/rtk2.png" group-title="Education",RTK-2
+http://46.19.225.236:1935/rtk2/RTK_2/chunklist_w518000340.m3u8
+
