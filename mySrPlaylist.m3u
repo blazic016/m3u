@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sr.n1" tvg-name="N1" tvg-logo="http://radiobox.info/wp-content/uploads/2020/07/rts-1.jpg" group-title="Info",N1
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-id="sr.aljazira" tvg-name="aljazira"  group-title="Info",Al Jazira
+https://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1 tvg-id="sr.pink" tvg-name="pink"  group-title="Info",PINK
+https://live.rednet.rs/providus/pink1.m3u8
+#EXTINF:-1 tvg-id="sr.narodnatv" tvg-name="narodnatv"  group-title="Info",Narodna TV
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-id="sr.informertv" tvg-name="informertv"  group-title="Info",Informer
+https://53a7ed211fc32.streamlock.net/informertv-secure/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="sr.blic" tvg-name="blic"  group-title="Info",Blic
+https://6069699a9e3f3.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
